@@ -1,2 +1,2 @@
-[Link](https://vocal-pastelito-c95aa3.netlify.app/)
+[Link](https://majestic-taffy-c17913.netlify.app/)
 # React + Vite
